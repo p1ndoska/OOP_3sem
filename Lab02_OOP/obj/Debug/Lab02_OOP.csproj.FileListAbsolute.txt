@@ -1,0 +1,2 @@
+D:\2\oop\Lab02_OOP\Lab02_OOP\obj\Debug\Lab02_OOP.csproj.AssemblyReference.cache
+D:\2\oop\Lab02_OOP\Lab02_OOP\obj\Debug\Lab02_OOP.csproj.CoreCompileInputs.cache
